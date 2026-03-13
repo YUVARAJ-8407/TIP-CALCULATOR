@@ -1,4 +1,4 @@
-print("Welcome to TIP CALCULATOR:")
+print("Welcome to TIP CALCULATOR from VSC:")
 print("Make sure you would only type the numbers instead of any alphabets(letter/word) which cause the device to restart")
 while True:
     try:
